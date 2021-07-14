@@ -1,3 +1,4 @@
+![Screenshot 2021-07-13 213811](https://user-images.githubusercontent.com/85463607/125562122-1765a0b2-8ee4-47ce-a8e5-c2b3ee5c3155.png)
 # workDayPlanner
 
 Goal was to buld a work day planner
